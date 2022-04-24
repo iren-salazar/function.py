@@ -10,5 +10,5 @@ def say_hello(): # define func. carrys all the variables bellow!!
     print (num)
 
 say_hello() # declaring the define function to print multiple times...
-say_hello()
+say_hello() # make sure to def the func below!!!!
 say_hello()
